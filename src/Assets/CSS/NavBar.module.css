@@ -1,0 +1,8 @@
+.head {
+  background-color: aqua;
+  height: 40px;
+  display: flex;
+  padding-left: 100px;
+  align-items: center;
+  gap: 20px;
+}
